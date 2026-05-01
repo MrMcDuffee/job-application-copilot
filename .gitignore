@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments (if you add one later)
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets (local)
+.streamlit/secrets.toml
