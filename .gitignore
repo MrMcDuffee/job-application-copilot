@@ -5,7 +5,7 @@
 __pycache__/
 *.pyc
 
-# Virtual environments (if you add one later)
+# Virtual environments
 venv/
 .env/
 
@@ -13,5 +13,5 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Streamlit secrets (local)
+# Streamlit secrets
 .streamlit/secrets.toml
